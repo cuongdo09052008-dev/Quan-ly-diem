@@ -71,4 +71,4 @@ st.pyplot(fig)
 
 # 5. Tên và MSSV ở cuối trang
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: gray; font-size: 12px;'>Người tạo ứng dụng: [Họ tên của bạn] - [MSSV]</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: gray; font-size: 12px;'>Người tạo ứng dụng: [Đỗ Huy Cường] - [05]</p>", unsafe_allow_html=True)
